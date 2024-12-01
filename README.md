@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [issamhxr.com](issamhxr.com)
-
 - 📫 How to reach me **contact@issamhxr.com**
 
-- 📄 Know about my experiences [issamhxr.com](issamhxr.com)
+- 📄 Know about my experiences [Https//issamhxr.com](issamhxr.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
